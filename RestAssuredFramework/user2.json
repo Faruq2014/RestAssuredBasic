@@ -1,0 +1,28 @@
+ 
+{
+    "id": 3,
+    "title": "Data Base",
+    "First name": "Faruq",
+    "Last name": "Molla",
+    "author": "Faruq Molla",
+   "Phone": [7032223333,5723334444],
+    "Adress":{
+    "street":"****pine",
+    "city":"Alexandria",
+    "State":"Virginia",
+    "Country":"USA"
+     },
+  "Primary Skills":["Java","Selenium","Rest API"],
+  "Secondary Skills":["Unix","Maven","Git","Jenkin"],
+  "Education":[
+  
+  {"Bachelor":"Accounting",
+  "year":2002
+  },
+  
+ {"Associate":"Computer Science",
+  "year":2010
+  }
+  ]
+  
+}
